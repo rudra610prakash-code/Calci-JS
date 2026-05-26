@@ -151,6 +151,10 @@ This project is open source and available under the MIT License.
 
 ---
 
+
+
+
+
 ## 🎯 Future Enhancements
 
 - [ ] Keyboard support
@@ -162,4 +166,10 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Made with ❤️ - Enjoy calculating!** 🧮✨
+## 📸 Screenshot
+
+
+<img width="1083" height="606" alt="image" src="https://github.com/user-attachments/assets/b1f30578-509d-440e-9903-8e57e1745143" />
+
+**Made with ❤️ **
+
